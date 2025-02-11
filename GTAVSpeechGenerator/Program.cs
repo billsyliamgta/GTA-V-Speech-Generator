@@ -98,14 +98,14 @@ public class Program
            xml.Element("Dat4").Element("ContainerPaths").Add(new XElement("Item", containerPath));
         }
 
-        for (int i = 0; i < combinedXorHashes.Count; i++) // Assign the speakers
+        for (int i = 0; i < combinedXorHashes.Count; i++) // Assign the WAV data
         {
-            xml.Element("Dat4").Element("Items").Add(new XElement("Item", new XAttribute("type", "ByteArray"), new XElement("Name", "hash_" + combinedXorHashes[i]), new XElement("RawData", "01 00 00")));
+            xml.Element("Dat4").Element("Items").Add(new XElement("Item", new XAttribute("type", "ByteArray"), new XElement("Name", "hash_" + combinedXorHashes[i].ToLower()), new XElement("RawData", "01 00 00")));
         }
 
         for (int i = 0; i < speakerXorHashes.Count; i++) // Now assign the speakers
         {
-            xml.Element("Dat4").Element("Items").Add(new XElement("Item", new XAttribute("type", "ByteArray"), new XElement("Name", "hash_" + speakerXorHashes[i]), new XElement("RawData", "00")));
+            xml.Element("Dat4").Element("Items").Add(new XElement("Item", new XAttribute("type", "ByteArray"), new XElement("Name", "hash_" + speakerXorHashes[i].ToLower()), new XElement("RawData", "00")));
         }
 
         for (int i = 0; i < args.Length; i++) // And finally put the audio container linkers
@@ -116,7 +116,7 @@ public class Program
 
         xml.Save($"{dlcDeviceName}_speech.dat4.rel.xml");
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("Succesfully generated!");
+        Console.WriteLine("Successfully generated!");
         Thread.Sleep(10000);
     }
     public static uint GenerateJenkins(string input)

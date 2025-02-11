@@ -4,7 +4,7 @@ Version 1 11
 	DescriptorsInOrder True
 	Entries
 	{
-		WaveTrack pors_aaaa_01
+		WaveTrack BRUH_01
 		{
 			Compression ADPCM
 			Headroom -141
@@ -13,13 +13,12 @@ Version 1 11
 			LoopEnd 0
 			PlayBegin 0
 			PlayEnd 0
-			Wave pors\PORS_AAAA_01.wav
+			Wave pors\BRUH_01.wav
 			AnimClip null
 			Events null
 			UNKNOWN_23097A2B null
 			UNKNOWN_E787895A null
 			UNKNOWN_252C20D9 null
-                        Speaker alex
 		}
 	}
 }
