@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVSpeechGenerator", "GTAVSpeechGenerator.csproj", "{36FD733E-B9D6-42AA-BDA6-9F76D7A51D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FD733E-B9D6-42AA-BDA6-9F76D7A51D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FD733E-B9D6-42AA-BDA6-9F76D7A51D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FD733E-B9D6-42AA-BDA6-9F76D7A51D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FD733E-B9D6-42AA-BDA6-9F76D7A51D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B3A0FC-43CC-48EA-9B0F-C7DBED999341}
+	EndGlobalSection
+EndGlobal

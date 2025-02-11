@@ -1,0 +1,14 @@
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\bin\Debug\net8.0\GTAVSpeechGenerator.exe
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\bin\Debug\net8.0\GTAVSpeechGenerator.deps.json
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\bin\Debug\net8.0\GTAVSpeechGenerator.runtimeconfig.json
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\bin\Debug\net8.0\GTAVSpeechGenerator.dll
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\bin\Debug\net8.0\GTAVSpeechGenerator.pdb
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.AssemblyInfo.cs
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.dll
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\refint\GTAVSpeechGenerator.dll
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.pdb
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\GTAVSpeechGenerator.genruntimeconfig.cache
+C:\Users\Liam\source\repos\GTAVSpeechGenerator\obj\Debug\net8.0\ref\GTAVSpeechGenerator.dll

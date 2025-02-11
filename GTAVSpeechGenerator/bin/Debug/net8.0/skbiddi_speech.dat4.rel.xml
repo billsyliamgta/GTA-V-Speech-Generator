@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dat4>
+  <Version value="46158765" />
+  <ContainerPaths>
+    <Item>SKBIDDI\PORS</Item>
+  </ContainerPaths>
+  <Items>
+    <Item type="ByteArray">
+      <Name>hash_26675e07</Name>
+      <RawData>01 00 00</RawData>
+    </Item>
+    <Item type="ByteArray">
+      <Name>hash_2d072eb5</Name>
+      <RawData>01 00 00</RawData>
+    </Item>
+    <Item type="ByteArray">
+      <Name>hash_57BDF672</Name>
+      <RawData>00</RawData>
+    </Item>
+    <Item type="ByteArray">
+      <Name>hash_13BB2756</Name>
+      <RawData>01</RawData>
+    </Item>
+    <Item type="Container" ntOffset="0">
+      <Name>0</Name>
+      <ContainerHash>skbiddi\pors</ContainerHash>
+    </Item>
+  </Items>
+</Dat4>

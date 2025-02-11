@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dat4>
+  <Version value="46158765" />
+  <ContainerPaths>
+    <Item>BRUH\PORS</Item>
+  </ContainerPaths>
+  <Items>
+    <Item type="ByteArray">
+      <Name>hash_1a08e298</Name>
+      <RawData>01 00 00</RawData>
+    </Item>
+    <Item type="ByteArray">
+      <Name>hash_52475FFA</Name>
+      <RawData>00</RawData>
+    </Item>
+    <Item type="Container" ntOffset="0">
+      <Name>0</Name>
+      <ContainerHash>bruh\pors</ContainerHash>
+    </Item>
+  </Items>
+</Dat4>
